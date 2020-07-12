@@ -1,8 +1,6 @@
 # rootlessJB12.4
 
- 
-![rootlessJB4](https://github.com/BrandonPlank/rootlessJB4/blob/master/IMG_0486.png?raw=true)
-<img src="https://github.com/BrandonPlank/rootlessJB4/blob/master/IMG_0486.png?raw=true" width="250">
+ <img src="https://github.com/BrandonPlank/rootlessJB4/blob/master/IMG_0486.png?raw=true" width="250">
 
 
 
