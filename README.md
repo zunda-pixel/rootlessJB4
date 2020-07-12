@@ -2,6 +2,8 @@
 
  
 ![rootlessJB4](https://github.com/BrandonPlank/rootlessJB4/blob/master/IMG_0486.png?raw=true)
+<img src="https://github.com/BrandonPlank/rootlessJB4/blob/master/IMG_0486.png?raw=true" width="250">
+
 
 
 ## Support
